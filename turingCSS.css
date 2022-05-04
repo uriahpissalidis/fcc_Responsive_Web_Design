@@ -1,0 +1,47 @@
+html {
+  font-size: 20px;
+  color: #eee;
+  background-color: #121212;
+}
+
+h1{
+  text-align: center;
+}
+
+img-caption{
+  text-align: center;
+}
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+
+figcaption {
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  display: block;
+  height: 400px;
+  margin: auto auto;
+  background-color: black;
+}
+
+#img-div {
+  background: #222222;
+  padding: 10px;
+  padding-bottom: 20px;
+  margin: auto auto;
+}
+
+#img-caption{
+  padding: 10px;
+}
+
+blockquote{
+  text-align: center;
+  font-style: italic;
+}
